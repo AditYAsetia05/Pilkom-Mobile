@@ -1,0 +1,5 @@
+Pilkom Mobile
+Jaringan Komputer :
+- Cisco paket traser
+- Pengkabelan
+- Transfer file menggunakan kabel UTP secara Peer to peer
